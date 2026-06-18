@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "u3DRVuQQ07o=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Samir\\OneDrive\\Escritorio\\NominaApp\\NominaApp.Core\\NominaApp.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samir\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.25\\microsoft.netcore.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\Samir\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.25\\microsoft.windowsdesktop.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\Samir\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.25\\microsoft.aspnetcore.app.ref.8.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

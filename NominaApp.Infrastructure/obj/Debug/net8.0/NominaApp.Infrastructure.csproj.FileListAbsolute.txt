@@ -1,0 +1,15 @@
+C:\Users\Samir\OneDrive\Escritorio\NominaApp\NominaApp.Infrastructure\obj\Debug\net8.0\NominaApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Samir\OneDrive\Escritorio\NominaApp\NominaApp.Infrastructure\obj\Debug\net8.0\NominaApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samir\OneDrive\Escritorio\NominaApp\NominaApp.Infrastructure\obj\Debug\net8.0\NominaApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Samir\OneDrive\Escritorio\NominaApp\NominaApp.Infrastructure\obj\Debug\net8.0\NominaApp.Infrastructure.AssemblyInfo.cs
+C:\Users\Samir\OneDrive\Escritorio\NominaApp\NominaApp.Infrastructure\obj\Debug\net8.0\NominaApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Samir\OneDrive\Escritorio\NominaApp\NominaApp.Infrastructure\bin\Debug\net8.0\NominaApp.Infrastructure.deps.json
+C:\Users\Samir\OneDrive\Escritorio\NominaApp\NominaApp.Infrastructure\bin\Debug\net8.0\NominaApp.Infrastructure.dll
+C:\Users\Samir\OneDrive\Escritorio\NominaApp\NominaApp.Infrastructure\bin\Debug\net8.0\NominaApp.Infrastructure.pdb
+C:\Users\Samir\OneDrive\Escritorio\NominaApp\NominaApp.Infrastructure\bin\Debug\net8.0\NominaApp.Core.dll
+C:\Users\Samir\OneDrive\Escritorio\NominaApp\NominaApp.Infrastructure\bin\Debug\net8.0\NominaApp.Core.pdb
+C:\Users\Samir\OneDrive\Escritorio\NominaApp\NominaApp.Infrastructure\obj\Debug\net8.0\NominaAp.07778D04.Up2Date
+C:\Users\Samir\OneDrive\Escritorio\NominaApp\NominaApp.Infrastructure\obj\Debug\net8.0\NominaApp.Infrastructure.dll
+C:\Users\Samir\OneDrive\Escritorio\NominaApp\NominaApp.Infrastructure\obj\Debug\net8.0\refint\NominaApp.Infrastructure.dll
+C:\Users\Samir\OneDrive\Escritorio\NominaApp\NominaApp.Infrastructure\obj\Debug\net8.0\NominaApp.Infrastructure.pdb
+C:\Users\Samir\OneDrive\Escritorio\NominaApp\NominaApp.Infrastructure\obj\Debug\net8.0\ref\NominaApp.Infrastructure.dll

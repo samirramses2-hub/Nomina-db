@@ -1,0 +1,11 @@
+C:\Users\Samir\OneDrive\Escritorio\NominaApp\NominaApp.Core\bin\Release\net8.0\NominaApp.Core.deps.json
+C:\Users\Samir\OneDrive\Escritorio\NominaApp\NominaApp.Core\bin\Release\net8.0\NominaApp.Core.dll
+C:\Users\Samir\OneDrive\Escritorio\NominaApp\NominaApp.Core\bin\Release\net8.0\NominaApp.Core.pdb
+C:\Users\Samir\OneDrive\Escritorio\NominaApp\NominaApp.Core\obj\Release\net8.0\NominaApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samir\OneDrive\Escritorio\NominaApp\NominaApp.Core\obj\Release\net8.0\NominaApp.Core.AssemblyInfoInputs.cache
+C:\Users\Samir\OneDrive\Escritorio\NominaApp\NominaApp.Core\obj\Release\net8.0\NominaApp.Core.AssemblyInfo.cs
+C:\Users\Samir\OneDrive\Escritorio\NominaApp\NominaApp.Core\obj\Release\net8.0\NominaApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\Samir\OneDrive\Escritorio\NominaApp\NominaApp.Core\obj\Release\net8.0\NominaApp.Core.dll
+C:\Users\Samir\OneDrive\Escritorio\NominaApp\NominaApp.Core\obj\Release\net8.0\refint\NominaApp.Core.dll
+C:\Users\Samir\OneDrive\Escritorio\NominaApp\NominaApp.Core\obj\Release\net8.0\NominaApp.Core.pdb
+C:\Users\Samir\OneDrive\Escritorio\NominaApp\NominaApp.Core\obj\Release\net8.0\ref\NominaApp.Core.dll
